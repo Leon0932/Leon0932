@@ -45,15 +45,6 @@ Includes:
 
 ---
 
-### 💼 What I'm Working On
-
-- Deepening Swift & SwiftUI skills with advanced animations and data-driven UIs  
-- Exploring mobile security & cryptographic algorithms  
-- Building scalable apps with modular architecture and clean MVVM patterns  
-- Learning how to build and integrate **Firebase** and **FastAPI backends**
-
----
-
 ### 📫 Let's Connect
 
 Feel free to reach out via GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/leon-chamoun-81581126b/).
