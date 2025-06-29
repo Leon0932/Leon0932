@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Leon 👋</h1>
 
 <p align="center">
-  <i>IT Consultant at a Big Four Firm • Cyber Security Student at Aalen University • iOS Developer</i>
+  <i>Cyber Security Student at Aalen University • iOS Developer</i>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 I'm an enthusiastic iOS developer with a passion for cryptography, education, and building clean modular apps using Swift and SwiftUI.  
-Currently working as an IT Consultant while pursuing my degree in Cyber Security at Aalen University.  
+Currently pursuing my master degree in Cyber Security at Aalen University.  
 I also have experience with **UI/UX design**, am comfortable using **Figma**.
 
 ---
